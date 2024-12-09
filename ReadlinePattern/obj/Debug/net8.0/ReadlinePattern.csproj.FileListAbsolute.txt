@@ -1,0 +1,14 @@
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\bin\Debug\net8.0\ReadlinePattern.exe
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\bin\Debug\net8.0\ReadlinePattern.deps.json
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\bin\Debug\net8.0\ReadlinePattern.runtimeconfig.json
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\bin\Debug\net8.0\ReadlinePattern.dll
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\bin\Debug\net8.0\ReadlinePattern.pdb
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.AssemblyInfoInputs.cache
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.AssemblyInfo.cs
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.dll
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\refint\ReadlinePattern.dll
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.pdb
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ReadlinePattern.genruntimeconfig.cache
+C:\Visual Studio 2022\ReadlinePattern\ReadlinePattern\obj\Debug\net8.0\ref\ReadlinePattern.dll

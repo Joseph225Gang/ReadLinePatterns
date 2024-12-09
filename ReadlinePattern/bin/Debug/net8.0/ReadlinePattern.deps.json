@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReadlinePattern/1.0.0": {
+        "runtime": {
+          "ReadlinePattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReadlinePattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
